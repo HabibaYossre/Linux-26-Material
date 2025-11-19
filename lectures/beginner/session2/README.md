@@ -27,7 +27,7 @@ Solve the hand on inside the pdf and assing it via [google form](https://forms.g
 
 - [BeRoot: Linux File System](https://github.com/Open-Source-Community/BeRoot/blob/main/CLI%20&%20Linux%20File%20System)
 - [BeRoot: Viewing Files](https://github.com/Open-Source-Community/BeRoot/blob/main/Viewing%20Files)
-- [BeRoot: Creating Links](https://github.com/Open-Source-Community/BeRoot/blob/main/Creating%20Link
+- [BeRoot: Creating Links](https://github.com/Open-Source-Community/BeRoot/blob/main/Creating%20Link)
 
 - [pwn.college: commands](https://pwn.college/linux-luminarium/commands/)
 - [pwn.college: paths](https://pwn.college/linux-luminarium/paths/)
